@@ -2,5 +2,15 @@
 	"name": "Storex",
 	"symbol": "STRX",
 	"description": "Storex marketplace is changing the way e-commerce works by combining the multi-trillion dollar industry with blockchain technology",
-	"image": "https://raw.githubusercontent.com/storexio/strx-token/refs/heads/main/strx-logo.png"
+	"image": "https://raw.githubusercontent.com/storexio/strx-token/refs/heads/main/strx-logo.png",
+	"tags": [
+		"Utility",
+		"RWA",
+		"Ecommerce",
+		"Marketplace"
+	],
+	"creator": {
+		"name": "Storex Marketplace Ltd",
+		"site": "https://storex.io"
+	}
 }
